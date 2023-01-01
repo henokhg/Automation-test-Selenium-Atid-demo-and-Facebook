@@ -13,7 +13,6 @@ Productname_store = "//a[contains(text(),'Basic Gray Jeans')]"
 
 # =============== Men Locatores ========================
 
-
 Website_men = "https://atid.store/"
 Men = "//header/div[@id='ast-desktop-header']/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/nav[1]/div[1]/ul[1]/li[3]/a[1]"
 Product_men = "//body/div[@id='page']/div[@id='content']/div[1]/div[2]/main[1]/div[1]/ul[1]/li[6]"

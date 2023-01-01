@@ -1,8 +1,8 @@
 from selenium.webdriver.common.by import By
 from selenium import webdriver
 import time
-from Atid_store.BaseTest.Locatores import *
-import  pytest
+from BaseTest.Locatores import *
+import pytest
 
 def test_store():
     driver = webdriver.Chrome()
