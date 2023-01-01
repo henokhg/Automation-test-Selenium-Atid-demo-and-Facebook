@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
-from Facebook.BaseTest.login_locators import *
+from BaseTest.login_locators import *
 import pytest
 
 def test_login_1():

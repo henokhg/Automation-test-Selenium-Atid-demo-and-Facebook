@@ -2,7 +2,6 @@ Website = "https://www.facebook.com//"
 Signin_button = "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/form[1]/div[5]/a[1]"
 
 # =====================================1========================================
-
 Fn1 = "firstname"
 Fn1_send_key = "henu"
 Ln1 = "lastname"

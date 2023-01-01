@@ -1,8 +1,9 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
-from Facebook.BaseTest.registration_locators import *
+from BaseTest.registration_locators import *
 import pytest
+
 
 def test_registration_1():
     driver = webdriver.Chrome()

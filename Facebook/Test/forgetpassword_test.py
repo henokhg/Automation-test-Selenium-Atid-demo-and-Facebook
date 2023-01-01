@@ -1,9 +1,9 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
-import  pytest
+import pytest
 
-from Facebook.BaseTest.forgetpassword_locators import *
+from BaseTest.forgetpassword_locators import *
 
 
 def test_forgetpassword1():
